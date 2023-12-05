@@ -4,6 +4,11 @@ And here I'm writing stuff
 ### anotha subsection
 More stuff
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` Python
+x = "Hello"
+print(x)
+```
 
 <img src="https://octodex.github.com/images/yaktocat.png" alt="image of Yaktocat" width=200>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
